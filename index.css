@@ -60,7 +60,7 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 4px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .logo-img {
@@ -161,9 +161,5 @@ body {
 
   .tg-btn {
     bottom: 4vh;
-  }
-
-  .title {
-    margin: 0;
   }
 }
