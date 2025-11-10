@@ -8,6 +8,7 @@
 html,
 body {
   height: 100%;
+  overflow: hidden;
 }
 
 body {
@@ -34,8 +35,7 @@ body {
 .screen {
   position: relative;
   width: 100%;
-  min-height: 100vh; /* фолбек для старих браузерів */
-  height: 100dvh; /* нормальна поведінка для сучасних */
+  height: 100dvh; /* замість 100vh */
   background: url("img/main.png") center center / cover no-repeat;
   color: #21456a;
   display: flex;
