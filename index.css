@@ -164,6 +164,6 @@ body {
   }
 
   .title {
-    margin: clamp(8px, 2.5vw, 16px);
+    margin: 0;
   }
 }
