@@ -162,4 +162,8 @@ body {
   .tg-btn {
     bottom: 4vh;
   }
+
+  .title {
+    margin: clamp(8px, 2.5vw, 16px);
+  }
 }
